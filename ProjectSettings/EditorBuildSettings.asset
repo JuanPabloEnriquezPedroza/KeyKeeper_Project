@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 97a10573ebf60ad4e8a1824883839daa
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: 60290c66a71881a4f9354684947d057c
+  - enabled: 1
+    path: Assets/Scenes/Graveyard.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Catacombs.unity
+    guid: 8b834eb66ac6ff14d9a2ddb78e21b94e
+  - enabled: 1
+    path: Assets/Scenes/Tower.unity
+    guid: 0a9513941ede6234789cf08c0aa45ebd
+  - enabled: 1
+    path: Assets/Scenes/Dungeons.unity
+    guid: 2a0cdb689a938874ba7372e001da761f
+  m_configObjects: {}
